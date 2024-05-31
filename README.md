@@ -86,7 +86,8 @@ Para futuros estudos e modelos preditivos de preços de aluguel:
 Este relatório fornece uma visão abrangente e detalhada da análise de dados e modelagem preditiva de preços de aluguel em São Paulo. Esperamos que os insights obtidos possam auxiliar na tomada de decisões estratégicas e no desenvolvimento de políticas de precificação mais eficazes.
 
 ## Anexos
-
+![image](https://github.com/fzta492/analise_alugueis_sao_paulo/assets/76072907/1a1cb9e6-61b4-47c8-be45-586c91fd572f)
+<br>
 ![image](https://github.com/fzta492/analise_alugueis_sao_paulo/assets/76072907/556b1409-c780-4436-96b8-0c6c19572445)
 <br>
 ![image](https://github.com/fzta492/analise_alugueis_sao_paulo/assets/76072907/31be1cb0-5dd2-4440-abf3-719c1a7f2f21)
